@@ -70,7 +70,7 @@
                        Grid.Row="0"
                        VerticalAlignment="Top"
                        MouseLeftButtonDown="Option1_MouseLeftButtonDown"
-                       Text="Risk adverse, the client would prefer safer investments and guarenteed returns"
+                       Text="Risk adverse, the client would prefer safer investments and guaranteed returns"
                        TextWrapping="Wrap" />
             <TextBlock x:Name="Option2"
                        Grid.Row="1"
