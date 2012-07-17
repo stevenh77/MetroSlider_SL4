@@ -5,7 +5,7 @@ This is the source code that accompaniments the [blog post](http://stevenhollidg
 
 ## About
 
-Source code:  [https://github.com/stevenh77/MetroSlider_SL](https://github.com/stevenh77/MetroSlider_SL)
+Source code:  [https://github.com/stevenh77/MetroSlider_SL4](https://github.com/stevenh77/MetroSlider_SL4)
 
 Live Demo:  [http://stevenhollidge.com/blog-source-code/metroslider](http://stevenhollidge.com/blog-source-code/metroslider)
 
