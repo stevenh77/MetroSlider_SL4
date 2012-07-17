@@ -1,12 +1,16 @@
 ﻿
+using System;
+
 namespace MetroSlider_SL4
 {
-    public partial class MainPage
+    public partial class MetroSlider
     {
-        public MainPage()
+        public MetroSlider()
         {
             InitializeComponent();
         }
+
+        public int Value { get { return Convert.ToInt32(this.MySlider.Value); } }
 
         private void Option1_MouseLeftButtonDown(object sender, System.Windows.Input.MouseButtonEventArgs e)
         {

@@ -26,7 +26,7 @@ namespace MetroSlider_SL4
 
         private void Application_Startup(object sender, StartupEventArgs e)
         {
-            this.RootVisual = new MainPage();
+            this.RootVisual = new MetroSlider();
         }
 
         private void Application_Exit(object sender, EventArgs e)
