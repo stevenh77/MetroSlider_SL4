@@ -46,16 +46,6 @@
                                            RadiusX="1"
                                            RadiusY="1"
                                            StrokeThickness="0" />
-                                <Rectangle x:Name="VerticalTrackRectangleDisabledOverlay"
-                                           Grid.Row="0"
-                                           Grid.RowSpan="3"
-                                           Width="3"
-                                           Margin="0,5,0,5"
-                                           Fill="White"
-                                           Opacity=".55"
-                                           RadiusX="1"
-                                           RadiusY="1"
-                                           Visibility="Collapsed" />
                                 <RepeatButton x:Name="VerticalTrackLargeChangeDecreaseRepeatButton"
                                               Grid.Row="2"
                                               Width="18"
