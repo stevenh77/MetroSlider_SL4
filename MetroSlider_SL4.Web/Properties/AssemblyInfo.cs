@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MetroSlider_SL4")]
+[assembly: AssemblyTitle("MetroSlider_SL4.Web")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MetroSlider_SL4")]
+[assembly: AssemblyProduct("MetroSlider_SL4.Web")]
 [assembly: AssemblyCopyright("Copyright ©  2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("61929b40-3a79-40ad-a89d-e972e78c072f")]
+[assembly: Guid("727b0957-7416-403f-9dc3-4a0cae01670f")]
 
 // Version information for an assembly consists of the following four values:
 //

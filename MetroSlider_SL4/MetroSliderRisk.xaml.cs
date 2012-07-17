@@ -3,14 +3,18 @@ using System;
 
 namespace MetroSlider_SL4
 {
-    public partial class MetroSlider
+    public partial class MetroSliderRisk
     {
-        public MetroSlider()
+        public MetroSliderRisk()
         {
             InitializeComponent();
         }
 
-        public int Value { get { return Convert.ToInt32(this.MySlider.Value); } }
+        public int Value
+        {
+            get { return Convert.ToInt32(this.MySlider.Value); }
+            set { MySlider.Value = value; }
+        }
 
         private void Option1_MouseLeftButtonDown(object sender, System.Windows.Input.MouseButtonEventArgs e)
         {
